@@ -8,7 +8,7 @@ It is entirely predictable that a movement willfully disregarding who technology
 
 We are building a coalition supporting balanced approaches and will share our directions on solutions.
 
-We believe:
+## We believe
 
 * Contributors add value by being cognitively engaged.
 * Work must be teachable, not ineffable "taste".
@@ -18,15 +18,22 @@ We believe:
 * Tools are for people to use, not compete with.
 * Consent matters (right of refusal).
 
-Introductory reading:
+## Introductory reading
 
 * [Ironies of Automation](https://www.complexcognition.co.uk/2021/06/ironies-of-automation.html), 1983, Dr. Lisanne Bainbridge
 * [Psychology of Software Teams](https://www.drcathicks.com/), 2026, Dr. Cat Hicks
 
-Evidence of failure:
+## Evidence of failure
 
 * [Artificial Intelligence in the Firm: Bottlenecks in Software Production](https://fion.ac/jellyfish.pdf), 2026 Harvard Study by Fiona Chen and James Stratton. It studied 300 million work events across 718 firms.
 
-Thank you!
+# Show support
 
-*See issue #1 to sign.*
+Please :star: this repo to show interest. See issue #1 to sign.
+
+**Signers**
+
+* Ray Myers, The Coding Agency
+* Sue Smith, Educator
+
+Thank you!
