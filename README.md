@@ -29,11 +29,6 @@ We are building a coalition supporting balanced approaches and will share our di
 
 # Show support
 
-Please :star: this repo to show interest. See issue #1 to sign.
-
-**Signers**
-
-* Ray Myers, The Coding Agency
-* Sue Smith, Educator
+Please :star: this repo to show interest. See issue #1 to leave a note.
 
 Thank you!
