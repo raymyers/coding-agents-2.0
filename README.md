@@ -29,6 +29,6 @@ We are building a coalition supporting balanced approaches and will share our di
 
 # Show support
 
-Please :star: this repo to show interest. See issue #1 to leave a note.
+Please :star: this repo to show interest. See [issue #1](https://github.com/raymyers/coding-agents-2.0/issues/1) to leave a note and find other ways to engage.
 
 Thank you!
