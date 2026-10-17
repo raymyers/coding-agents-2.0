@@ -18,6 +18,8 @@ We are building a coalition supporting balanced approaches and will share our di
 * Tools are for people to use, not compete with.
 * Consent matters (right of refusal).
 
+By examining the assumptions of [Coding Agents 1.0](./v1-explained.md) in light of these principles, we will promote tools that better meet our needs.
+
 ## Introductory reading
 
 * [Ironies of Automation](https://www.complexcognition.co.uk/2021/06/ironies-of-automation.html), 1983, Dr. Lisanne Bainbridge
