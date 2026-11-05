@@ -1,12 +1,19 @@
 # Coding Agents 2.0
 
-Coding Agents represent a vast economic opportunity that is being squandered due to bad ergonomics. We should get agency from agents.
+Coding Agents represent a vast economic opportunity that is being squandered due to bad ergonomics. We should get *agency* from agents.
 
 The body of knowledge called Human Factors is vital to understanding productivity with automation. AI companies ignore this because they don't want humans to be a factor.
 
 It is entirely predictable that a movement willfully disregarding who technology is meant to serve will produce bottlenecks and frustration instead of the miracles being promised by wholesale labor automation.
 
-We are building a coalition supporting balanced approaches and will share our directions on solutions.
+We are building support for balanced approaches and sharing our directions on solutions.
+
+## Foundations
+
+* Agents are tools, not virtual employees.
+* Abstractions are designed
+* Teams succeed together
+* Adoption is not forced
 
 ## We believe
 
@@ -24,6 +31,7 @@ By examining the assumptions of [Coding Agents 1.0](./v1-explained.md) in light 
 
 * [Ironies of Automation](https://www.complexcognition.co.uk/2021/06/ironies-of-automation.html), 1983, Dr. Lisanne Bainbridge
 * [Psychology of Software Teams](https://www.drcathicks.com/), 2026, Dr. Cat Hicks
+* [AI Gold Rush 2 Versus AI Realism: Overplaying Envisioned Benefits, Underplaying Real Risks](https://link.springer.com/content/pdf/10.1007/978-3-032-29336-7_5.pdf), 2026, Dr. Michael Rayo, Dr. Dane Morey, Dr. Tor Olav Grøtan, and Dr. David Woods
 
 ## Evidence of failure
 
@@ -31,6 +39,6 @@ By examining the assumptions of [Coding Agents 1.0](./v1-explained.md) in light 
 
 # Show support
 
-Please :star: this repo to show interest. See issue #1 to leave a note.
+Please :star: this repo to show interest. See issue #1 to leave a note and join the community.
 
 Thank you!
