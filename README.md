@@ -1,4 +1,4 @@
-# Coding Agents 2.0
+# Coding Agency
 
 Coding Agents represent a vast economic opportunity that is being squandered due to bad ergonomics. We should get *agency* from agents.
 
@@ -15,17 +15,7 @@ We are building support for balanced approaches and sharing our directions on so
 * Teams succeed together
 * Adoption is not forced
 
-## We believe
-
-* Contributors add value by being cognitively engaged.
-* Work must be teachable, not ineffable "taste".
-* Teams succeed together.
-* Production codebases must stay maintainable.
-* Usable abstractions are intentionally designed.
-* Tools are for people to use, not compete with.
-* Consent matters (right of refusal).
-
-By examining the assumptions of [Coding Agents 1.0](./v1-explained.md) in light of these principles, we will promote tools that better meet our needs.
+By examining the assumptions of [Coding Agents 1.0](./v1-explained.md) in light of these new foundations, we will promote tools that better meet our needs.
 
 ## Introductory reading
 
